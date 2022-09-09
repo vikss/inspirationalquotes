@@ -1,0 +1,18 @@
+{
+
+"manifest_version":3,
+"version":"1.0",
+"name":"Inspirational Quotes",
+"description":"Get a new random inspiring quote every hour or so",
+"background":{
+
+    "service_worker":"background.js"
+},
+"action":{
+
+    "default_popup":"quote.html"
+},
+"permissions":["storage"]
+
+
+}

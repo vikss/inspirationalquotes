@@ -1,0 +1,33 @@
+#quoteId {
+
+
+
+    font-weight: 500;
+    padding: 30px 10px;
+    font-size: 20px;
+    width: 350px;
+}
+
+#authorId {
+
+    padding-left: 10px;
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+
+div {
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 10px;
+    border: 2px;
+    border-style: none;
+
+
+
+}
+
+div#content {
+    background-image: url("yellow.jpeg");
+    background-size: 400px;
+    margin: 1px;
+
+}
